@@ -1,0 +1,22 @@
+.container-global{
+    margin: 5%;
+    height: 900px;
+    width: 350px;
+    border: solid 1px black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.container-image{
+    height: 280px;
+    width: 300px;
+    border-radius: 20px;
+}
+.container-picture{
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+}

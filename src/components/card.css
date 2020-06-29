@@ -1,0 +1,50 @@
+.card{
+    height: 260px;
+    width: 100%;
+    border: 1px grey solid;
+    border-radius: 25px;
+    margin-top: 6%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 3%;
+}
+.card-cover{
+height: 200px;
+width: 200px;
+border-radius: 2px;
+
+
+}
+.cover{
+    height: 100%;
+    width: 100%;
+}
+.card-description{
+    height: 200px;
+    width: 600px;
+    margin-left: 2%;
+    padding: 2%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.card-description-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 60%;
+}
+.card-hotel-descreption{
+    margin-top: 3%;
+    
+}
+.hotel-name{
+  font-size: xx-large;  
+}
+.hotel-rating{
+    margin-top: 5%;
+}
+.card-hotel-button{
+/* margin-top: 6%; */
+}

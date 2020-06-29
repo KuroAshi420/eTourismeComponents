@@ -1,0 +1,50 @@
+.annonce-card{
+    
+    height: 500px;
+    width: 360px;
+    background-color: #92DEDA;
+    margin: 3%;
+    padding-top: 3%;
+    border-top-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+    position: relative;
+    
+}
+.slogan{
+    font-size: 40px;
+    color: #e03d74;
+    font-weight: 900;
+}
+.promo{
+    height: 150px;
+    width: 330px;
+    border: red 10px double;
+    margin-top: 100px;
+    text-align: center;
+    border-bottom-right-radius: 50px;
+}
+.promo-title{
+    font-size: 41px;
+    font-weight: bold;
+    color: red;
+}
+.promo-text{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.discount{
+    height: 200px;
+    width: 220px;
+    border-radius: 50%;
+    background-color: #E41D18;
+    position: absolute;
+    top: 170px;
+    right: -100px;
+}
+.discount-text{
+    color: white;
+    font-size: 90px;
+    font-weight: bold;
+    position: absolute;
+    top: 22px;
+}

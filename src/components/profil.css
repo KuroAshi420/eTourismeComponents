@@ -1,0 +1,46 @@
+.profil-cover{
+    height: 400px;
+    width: 90%;
+    margin: 0 5%;
+    position: relative;
+}
+.profil-picture{
+    height: 150px;
+    width: 150px;
+    border: 3px solid #ffffff;
+    border-radius: 50%;
+    position: absolute;
+    top: 300px;
+    left: 110px;
+}
+.profil-cover-img{
+    height: 100%;
+    width: 100%;
+}
+.profil-pictuce-img{
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+}
+
+.profil-user-name{
+    position: absolute;
+    top: 350px;
+    left: 280px;
+    font-size: 35px;
+    font-weight: 700;
+    color: #181D61;
+}
+.profil-carousel{
+height: 100%;
+width: 100%;
+}
+.carousel-gallery{
+    display: flex;
+    flex-direction: row;
+}
+.carousel-gallery-pic{
+    width:25%;
+    border: 2px white solid;
+    
+}
