@@ -21,8 +21,6 @@ const Profil = () => {
         </div>
         <span className="profil-user-name">User Name</span>
       </div>
-      <NavBar />
-      <ProfilBody />
     </div>
   );
 };

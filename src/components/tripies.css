@@ -1,0 +1,11 @@
+.container-tripies{
+    height: 700px;
+    background-color: #E9EBEE;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 20px;
+    padding: 5%;
+    font-size: 120px;
+    color: black;
+    text-align: center;
+}

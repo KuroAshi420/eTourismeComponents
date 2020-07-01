@@ -7,19 +7,19 @@ const NavBar = () => {
   return (
     <div className="navbar">
       <div className="navbar-left">
-        <a className="navbar-link" href="#">
+        <a className="navbar-link" href="/">
           Journal
         </a>
-        <a className="navbar-link" href="#">
+        <a className="navbar-link" href="/notification">
           Notification
         </a>
-        <a className="navbar-link" href="#">
+        <a className="navbar-link" href="/tripies">
           Tripies
         </a>
-        <a className="navbar-link" href="#">
+        <a className="navbar-link" href="/photos">
           Photos
         </a>
-        <a className="navbar-link" href="#">
+        <a className="navbar-link" href="/videos">
           Videos
         </a>
       </div>
