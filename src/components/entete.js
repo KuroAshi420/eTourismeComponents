@@ -1,9 +1,8 @@
 import React from "react";
-import "./profil.css";
-import NavBar from "./navbar";
-import ProfilBody from "./profilBody";
+import "./entete.css";
 
-const Profil = () => {
+
+const Entete = () => {
   return (
     <div>
       <div className="profil">
@@ -25,4 +24,4 @@ const Profil = () => {
   );
 };
 
-export default Profil;
+export default Entete;

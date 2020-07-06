@@ -2,7 +2,7 @@ import React from "react";
 import "./profil.css";
 import { Carousel } from "react-bootstrap";
 
-const Profil2 = () => {
+const Entete2 = () => {
   return (
     <div className="profil">
       <div className="profil-cover">
@@ -111,4 +111,4 @@ const Profil2 = () => {
   );
 };
 
-export default Profil2;
+export default Entete2;
